@@ -1,7 +1,7 @@
 # About me
 
 ## student at Bu Ali University (Basu)
-### Activities in the field java and spring boot
+### Activities in the field java and spring boot and big data
 
 able to work well both in team
 
